@@ -35,5 +35,5 @@ The Following below are the stages that need to be followed:
 - Final thoughts.
 
 ## License
-MIT
+GNU
     
