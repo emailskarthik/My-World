@@ -17,7 +17,7 @@ My World is a Mobile app for Private Social Network to discuss and share good Co
 
 ## Technology Involved:
 
-- Front End Framework - React Native / Material UI
+- Front End Framework - React Native Material UI
 - Back End Framework - Django
 - Coding Language - Python
 
