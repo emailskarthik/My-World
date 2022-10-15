@@ -2,3 +2,4 @@
 * Frond End Developers - 5 Nos
 * Back End Developers - 5 Nos
 * App deployment - 2 Nos
+* Testing engineers - 3 Nos
